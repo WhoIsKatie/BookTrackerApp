@@ -18,7 +18,7 @@ Consequently, I've decided to create this book tracker application to fulfill al
 I want the option to save my book tracker list to file. 
 - As a user, I want to be able to reload the state from a saved file and resume exactly where I left off at a later time
 
-## Instructions for Grader
+## Instructions
 
 - You can add a book by clicking the button labelled "Add a book" and fill in the required fields in the dialog window 
 and clicking the "ok" button
